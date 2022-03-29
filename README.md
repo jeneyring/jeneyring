@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeneyring
-##- 👀 I’m interested in **data science**, _skateboarding_, reading and _traveling_. 
+- 👀 I’m interested in **data science**, _skateboarding_, reading and _traveling_. 
 - 🌱 I’m currently learning at Codeup!
 - 💞️ I’m looking to collaborate on anything that will help me learn more about Python + Pandas, SQL and data management. 
 - 📫 How to reach me jen.j.eyring@gmail.com
