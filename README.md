@@ -1,13 +1,15 @@
 <h1>🙌🏻 Hi, I’m Jen 💕 </h1>
-<p> I’m interested in: </p>
+<p> I’m interested in: </p><img align="right" img alt="mummy cat" src="https://media.giphy.com/media/rmV9g0Wb1lPji/giphy.gif" />
 <li> Data Science 🧮 </li> 
 <li>Skateboarding 🛹 </li> 
 <li>Reading 📖 </li>
 <li>Learning about different Philosophies & Theologies ✨ </li> 
 <li>and Scary Movies 🎥 🍿  </li>
 <br>
-<img align="right" src="https://tenor.com/bgMaD.gif" />
-
+<p>
+  
+                           
+</p>
 🌱 **I’m currently learning Data Science at Codeup!**
 💞️ I’m looking to collaborate on anything that will help me learn more about Python + Pandas, SQL and data management. 
 📫 How to reach me jen.j.eyring@gmail.com
