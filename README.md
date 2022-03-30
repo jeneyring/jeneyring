@@ -10,6 +10,7 @@
   
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/pandas?color=%23339BFF&logo=%23F7CA3D&logoColor=%23F7CA3D&style=for-the-badge">
 </p>
 
 <!---
