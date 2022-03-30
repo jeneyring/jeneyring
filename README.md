@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that will help me learn more about Python + Pandas, SQL and data management. 
 - 📫 How to reach me jen.j.eyring@gmail.com
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://thumbs.gfycat.com/ImportantDesertedDavidstiger-mobile.mp4" />
 
 <h3>Languages I am learning:</h3>
 <p>
