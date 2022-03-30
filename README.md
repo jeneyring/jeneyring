@@ -6,7 +6,7 @@
 
 <img align="right" src="https://gfycat.com/importantdeserteddavidstiger" />
 
-<h3>Languages I am learning:</h3>
+<h3>Tools I am learning/working with:</h3>
 <p>
   
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
