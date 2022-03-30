@@ -12,9 +12,12 @@
   
                            
 </p>
-🌱 **I’m currently learning Data Science at Codeup!**
-💞️ I’m looking to collaborate on anything that will help me learn more about Python + Pandas, SQL and data management. 
-📫 How to reach me jen.j.eyring@gmail.com
+🌱 <b>Looking to Collaborate!!!</b>
+<br>
+💞️ If you have anything that will help me learn more about Python + Pandas, SQL and data management, I'm game! 😏 
+<br>
+<br>
+📫 <b>How to reach me:</b> jen.j.eyring@gmail.com
 
 
 <h3>Tools I am learning/working with:</h3>
