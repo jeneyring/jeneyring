@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @jeneyring
-- 👀 I’m interested in **data science**, _skateboarding_, reading and _traveling_. 
-- 🌱 **I’m currently learning Data Science at Codeup!**
-- 💞️ I’m looking to collaborate on anything that will help me learn more about Python + Pandas, SQL and data management. 
-- 📫 How to reach me jen.j.eyring@gmail.com
+<h1>🙌🏻 Hi, I’m Jen 💕 </h1>
+<p> I’m interested in: </p>
+<li> Data Science 🧮 </li> 
+<li>Skateboarding 🛹 </li> 
+<li>Reading 📖 </li>
+<li>Learning about different Philosophies & Theologies ✨ </li> 
+<li>and Scary Movies 🎥 🍿  </li>
+<br>
+<img align="right" src="https://tenor.com/bgMaD.gif" />
 
-<img align="right" src="https://gfycat.com/importantdeserteddavidstiger" />
+🌱 **I’m currently learning Data Science at Codeup!**
+💞️ I’m looking to collaborate on anything that will help me learn more about Python + Pandas, SQL and data management. 
+📫 How to reach me jen.j.eyring@gmail.com
+
 
 <h3>Tools I am learning/working with:</h3>
 <p>
