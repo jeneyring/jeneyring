@@ -1,5 +1,7 @@
 <h1>🙌🏻 Hi, I’m Jen 💕 </h1>
-<p> I’m interested in: </p><img align="right" img alt="mummy cat" src="https://media.giphy.com/media/rmV9g0Wb1lPji/giphy.gif" />
+<p>I am currently a student at CodeUp in their Data Science program. <b>Go Jemison!!</b></p>
+
+<h3> I’m interested in: </h3><img align="right" img alt="mummy cat" src="https://media.giphy.com/media/rmV9g0Wb1lPji/giphy.gif" />
 <li> Data Science 🧮 </li> 
 <li>Skateboarding 🛹 </li> 
 <li>Reading 📖 </li>
