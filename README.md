@@ -14,7 +14,7 @@
 </p>
 🌱 <b>Looking to Collaborate!!!</b>
 <br>
-💞️ If you are working on anything that merges Data Science with Mindful-Living, I'm game! 😏 
+💞️ If you are working on anything that merges Data Science with Mental Health & Mindful-Living, I'm game! 😏 
 <br>
 <br>
 📫 <b>How to reach me:</b> jen.j.eyring@gmail.com
