@@ -14,7 +14,7 @@
 </p>
 🌱 <b>Looking to Collaborate!!!</b>
 <br>
-💞️ If you have anything that will help me learn more about Python + Pandas, SQL and data management, I'm game! 😏 
+💞️ If you are working on anything that merges Data Science with Mindful-Living, I'm game! 😏 
 <br>
 <br>
 📫 <b>How to reach me:</b> jen.j.eyring@gmail.com
