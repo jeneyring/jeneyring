@@ -1,4 +1,8 @@
-<h1>🙌🏻 Hi, I’m Jen 💕 </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=990&color=071921&background=D79A8D&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Jen.;Welcome+to+my+Github!!" alt="Typing SVG" /></a>
+</h1>
+
 <p>I am Business Analyst + Junior Data Scientist, taking on the world one dataset at a time.</p>
 
 <h3> I’m interested in: </h3><img align="right" img alt="mummy cat" src="https://media.giphy.com/media/rmV9g0Wb1lPji/giphy.gif" />
