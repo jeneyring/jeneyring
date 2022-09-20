@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jeneyring" alt="visitor badge"/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=990&color=071921&background=D79A8D&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Jen.;Welcome+to+my+Github!!" alt="Typing SVG" /></a>
