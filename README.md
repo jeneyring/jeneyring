@@ -30,7 +30,7 @@
 <p align="center">
   
 <code><img title="git" height="45" src="https://user-images.githubusercontent.com/102040896/191150220-cb0b3a32-721c-4a36-84a4-ef552f5a8997.png"></code>
-<code>![3](https://user-images.githubusercontent.com/102040896/191150278-c1f1f219-cb77-438d-b6e9-f3f79abac7bb.png)
+<code><img title="ot" height="45" src="https://user-images.githubusercontent.com/102040896/191150278-c1f1f219-cb77-438d-b6e9-f3f79abac7bb.png"></code>
 <code>![4](https://user-images.githubusercontent.com/102040896/191150304-f410784a-4b9f-48ff-93fe-00ac8d04d85f.png)
 <code>![5](https://user-images.githubusercontent.com/102040896/191150319-52901f65-b6b9-47d7-a5f8-90d5bdfcb186.png)
 <code>![7](https://user-images.githubusercontent.com/102040896/191150338-02ec33ac-4fff-4593-9074-a215aa218122.png)
