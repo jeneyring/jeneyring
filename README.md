@@ -7,7 +7,8 @@
 
 <p>I am Business Analyst + Junior Data Scientist, taking on the world one dataset at a time.</p>
 
-<h3> I’m interested in: </h3><img align="right" img alt="mummy cat" src="https://media.giphy.com/media/rmV9g0Wb1lPji/giphy.gif" />
+<h3> I’m interested in: </h3><img align="right" src="https://user-images.githubusercontent.com/102040896/191151570-b0a728ac-f251-4771-aaf4-40a0505a5984.png">
+
 <li> ML Models 🧮 </li> 
 <li>Skateboarding 🛹 </li> 
 <li>Reading about Apache Spark & Tableau 📖 </li>
